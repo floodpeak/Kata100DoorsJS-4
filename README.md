@@ -13,3 +13,14 @@ the 100th door.
 
 Question: What state are the doors in after the last
 pass? Which are open, which are closed?
+
+
+commit actions
+
+env: environment
+
+ut: unit test
+
+qg: quick green
+
+rf: refactor
