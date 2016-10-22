@@ -7,15 +7,15 @@ practice for http://cyber-dojo.org/ 100 doors
 visit every door and toggle the door (if the door is
 closed, you open it; if it is open, you close it).
 The second time you only visit every 2nd door (door
-#2, #4, #6, ...). The third time, every 3rd door
-(door #3, #6, #9, ...), etc, until you only visit
+2, 4, 6, ...). The third time, every 3rd door
+(door 3, 6, 9, ...), etc, until you only visit
 the 100th door.
 
 Question: What state are the doors in after the last
 pass? Which are open, which are closed?
 
 
-commit actions
+# commit actions
 
 env: environment
 
